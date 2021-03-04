@@ -1,24 +1,47 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="computer">
+<br />
+
+Hi, I'm Marcus. I entered the world of technology just over 6 years ago and since then I have evolved more and more! Currently I have been working more as a Frontend developer, but I have also worked as a FullStack as well. I always try to stay up to date with what's new in the dev community, testing and learning about new languages ​​and technologies. Recently I have been very fond of developing my skills with Nextjs, which is a very powerful and modern framework. Well, I hope this is it for now, my social networks will be available somewhere on the screen, do not hesitate to contact me for any matter, see you soon!
+
+<br />
+
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
+
+### About me:
+
+<br />
+
+- 💻 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- 🎓 Studying a bachelor's degree in Computer Engineering at the Federal University of Goiás, scheduled to end in 2022
+- 🎉 24 years old
+- 📌 Brazil
+
+<br/>
+
+### Contact me:
+
+<br />
 
 <div>
   <a href="https://www.linkedin.com/in/mvmmarcus" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&logoWidth=30" />
   </a>
   
   <a href="https://www.instagram.com/omarcus_vm/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white&logoWidth=30"/>
   </a>
   
   <a href="https://web.facebook.com/profile.php?id=100001884643464" alt="Facebook">
-    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white/"/>
+    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&logoWidth=30"/>
   </a>
 </div>
 
-[![HitCount](http://hits.dwyl.com/mvmmarcus/mvmmarcus.svg)](http://hits.dwyl.com/mvmmarcus/mvmmarcus)
+<br/>
 
 ### Languages and Tools:
+
+<br />
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -30,9 +53,12 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![Context Api](https://img.shields.io/badge/-Context%20Api-05122A?style=flat&logo=react)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 ![Testing Library](https://img.shields.io/badge/-Testing%20Library-05122A?style=flat&logo=testing-library)&nbsp;
+![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=storybook)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -41,8 +67,13 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
+<br />
 
-<p align="left">
+[![HitCount](http://hits.dwyl.com/mvmmarcus/mvmmarcus.svg)](http://hits.dwyl.com/mvmmarcus/mvmmarcus)
+
+<br/>
+
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
@@ -51,11 +82,3 @@
     />
   </a>
 </p>
-
-
-
-
-
-
-
-
