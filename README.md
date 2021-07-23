@@ -12,7 +12,7 @@ Hi, I'm Marcus. I entered the world of technology just over 6 years ago and sinc
 
 <br />
 
-- 💻 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- 💻 Frontend D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 Studying a bachelor's degree in Computer Engineering at the Federal University of Goiás, scheduled to end in 2022
 - 🎉 24 years old
 - 📌 Brazil
