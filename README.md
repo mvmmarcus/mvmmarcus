@@ -14,7 +14,7 @@ Hi, I'm Marcus. I entered the world of technology just over 6 years ago and sinc
 
 - 💻 Frontend D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 Studying a bachelor's degree in Computer Engineering at the Federal University of Goiás, scheduled to end in 2022
-- 🎉 24 years old
+- 🎉 25 years old
 - 📌 Brazil
 
 <br/>
@@ -57,15 +57,11 @@ Hi, I'm Marcus. I entered the world of technology just over 6 years ago and sinc
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 ![Testing Library](https://img.shields.io/badge/-Testing%20Library-05122A?style=flat&logo=testing-library)&nbsp;
 ![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=storybook)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
 <br />
 
