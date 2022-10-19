@@ -13,7 +13,7 @@ Hi, I'm Marcus. I entered the world of technology just over 6 years ago and sinc
 <br />
 
 - 💻 Frontend D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 🎓 Studying a bachelor's degree in Computer Engineering at the Federal University of Goiás, scheduled to end in 2022
+- 🎓 Computer Engineer at the Federal University of Goiás, Brazil
 - 🎉 25 years old
 - 📌 Brazil
 
