@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm Marcus. I entered the world of technology just over 6 years ago and since then I have evolved more and more! Currently I have been working more as a Frontend developer, but I have also worked as a FullStack as well. I always try to stay up to date with what's new in the dev community, testing and learning about new languages ​​and technologies. Recently I have been very fond of developing my skills with Nextjs, which is a very powerful and modern framework. Well, I hope this is it for now, my social networks will be available somewhere on the screen, do not hesitate to contact me for any matter, see you soon!
+Hi, I'm Marcus. I'm a software engineer with over 6 years of experience, specializing in building high-quality, high-performance applications. I focus on creating intuitive, visually appealing web solutions, using Design Systems to ensure a cohesive and user-friendly interface. I enjoy experimenting with new trends through small projects, staying up-to-date with market innovations to ensure my solutions remain modern and aligned with user expectations. I'm also committed to applying efficient development practices that optimize performance, ensuring fast and reliable applications.
 
 <br />
 
